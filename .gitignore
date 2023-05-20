@@ -1,3 +1,8 @@
+*.tar.gz
+azcopy**
+
+
+
 # Local .terraform directories
 **/.terraform/*
 
